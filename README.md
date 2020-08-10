@@ -1,2 +1,0 @@
-# YelpCamp
-Camping Website
